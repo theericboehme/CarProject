@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import datetime as dt
 import statsmodels.api as sm
-import statsmodels.formula.api as smf
 
 # folder for data models
 model_folder = "C:/Users/eric_/Dropbox/Studium/Master/Essec Exchange/1Classes/Python/Data/RegressionModels/"
