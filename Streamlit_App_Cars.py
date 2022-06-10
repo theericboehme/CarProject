@@ -3,13 +3,13 @@ import pandas as pd
 import statsmodels.api as sm
 
 # folder for data models
-model_folder = "C:/Users/eric_/Dropbox/Studium/Master/Essec Exchange/1Classes/Python/Data/RegressionModels/"
+model_folder = "Data/"
 
 # folder for brands and models
-brands_models = "C:/Users/eric_/Dropbox/Studium/Master/Essec Exchange/1Classes/Python/Data/Brands_and_models.csv"
+brands_models = "Data/Brands_and_models.csv"
 
 # path for variable summaries
-variable_summaries_path = 'C:/Users/eric_/Dropbox/Studium/Master/Essec Exchange/1Classes/Python/Data/variable_summaries.csv'
+variable_summaries_path = 'Data/variable_summaries.csv'
 
 # set up wide screen for streamlit
 st.set_page_config(layout="wide", page_title="Car costs", page_icon="🚗")
