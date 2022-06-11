@@ -1,1041 +1,198 @@
-brand,model
-Aston Martin,DB
-Aston Martin,Vanquish
-Aston Martin,DB7
-Aston Martin,Lagonda
-Aston Martin,Virage
-Aston Martin,V8
-Aston Martin,Vantage
-Aston Martin,Volante
-Aston Martin,DB9
-Aston Martin,DBS
-Aston Martin,Rapide
-Aston Martin,Cygnet
-Aston Martin,Others
-Aston Martin,DB11
-Aston Martin,DBX
-Audi,Allroad
-Audi,A2
-Audi,QUATTRO
-Audi,200
-Audi,80
-Audi,90
-Audi,A3
-Audi,A4
-Audi,A6
-Audi,A8
-Audi,Cabriolet
-Audi,Coupe
-Audi,S6
-Audi,V8
-Audi,S4
-Audi,S8
-Audi,TT
-Audi,S3
-Audi,RS
-Audi,Q7
-Audi,R8
-Audi,A5
-Audi,S5
-Audi,A1
-Audi,Q5
-Audi,A7
-Audi,Q3
-Audi,RS3
-Audi,RS4
-Audi,RS5
-Audi,RS6
-Audi,TTS
-Audi,TT RS
-Audi,A6 allroad
-Audi,S1
-Audi,RS Q3
-Audi,A4 allroad
-Audi,S7
-Audi,RS7
-Audi,SQ5
-Audi,e-tron
-Audi,Others
-Audi,Q2
-Audi,Q8
-Audi,SQ2
-Audi,SQ7
-Audi,SQ8
-Audi,RS Q8
-Audi,SQ3
-Audi,Q4 e-tron
-Audi,e-tron GT
-Bentley,Mulsanne
-Bentley,Brooklands
-Bentley,Continental
-Bentley,Azure
-Bentley,Arnage
-Bentley,Flying Spur
-Bentley,Others
-Bentley,Bentayga
-BMW,Z8
-BMW,X5
-BMW,315
-BMW,745
-BMW,Z4
-BMW,760
-BMW,545
-BMW,X3
-BMW,645
-BMW,116
-BMW,118
-BMW,120
-BMW,316
-BMW,318
-BMW,320
-BMW,323
-BMW,325
-BMW,328
-BMW,M3
-BMW,518
-BMW,520
-BMW,523
-BMW,525
-BMW,530
-BMW,535
-BMW,540
-BMW,M5
-BMW,635
-BMW,725
-BMW,728
-BMW,730
-BMW,735
-BMW,740
-BMW,750
-BMW,840
-BMW,850
-BMW,Z3
-BMW,M1
-BMW,528
-BMW,2002
-BMW,330
-BMW,130
-BMW,M6
-BMW,650
-BMW,550
-BMW,630
-BMW,335
-BMW,123
-BMW,135
-BMW,125
-BMW,X6
-BMW,X1
-BMW,Active Hybrid 7
-BMW,Z4 M
-BMW,340
-BMW,640
-BMW,1er M Coupé
-BMW,Active Hybrid 5
-BMW,X4
-BMW,228
-BMW,114
-BMW,X5 M
-BMW,X6 M
-BMW,Active Hybrid 3
-BMW,428
-BMW,435
-BMW,420
-BMW,i3
-BMW,i8
-BMW,M4
-BMW,216
-BMW,418
-BMW,425
-BMW,X7
-BMW,X7 M
-BMW,Z3 M
-BMW,220
-BMW,218
-BMW,225
-BMW,235
-BMW,430
-BMW,214
-BMW,Active Hybrid X6
-BMW,Others
-BMW,M2
-BMW,X4 M
-BMW,X2
-BMW,440
-BMW,140
-BMW,230
-BMW,240
-BMW,620
-BMW,X2 M
-BMW,X3 M
-BMW,M850
-BMW,M8
-BMW,iX3
-BMW,128
-BMW,i4
-BMW,iX
-BMW,223
-Bugatti,Veyron
-Bugatti,Divo
-Bugatti,Chiron
-Chevrolet,Silverado
-Chevrolet,2500
-Chevrolet,Suburban
-Chevrolet,Impala
-Chevrolet,Trailblazer
-Chevrolet,Avalanche
-Chevrolet,Chevy Van
-Chevrolet,Blazer
-Chevrolet,Camaro
-Chevrolet,Caprice
-Chevrolet,Cavalier
-Chevrolet,Corvette
-Chevrolet,Malibu
-Chevrolet,Tahoe
-Chevrolet,Trans Sport
-Chevrolet,Alero
-Chevrolet,Captiva
-Chevrolet,Epica
-Chevrolet,Kalos
-Chevrolet,Evanda
-Chevrolet,Nubira
-Chevrolet,Tacuma
-Chevrolet,Aveo
-Chevrolet,Rezzo
-Chevrolet,Lacetti
-Chevrolet,Matiz
-Chevrolet,SSR
-Chevrolet,HHR
-Chevrolet,Colorado
-Chevrolet,Equinox
-Chevrolet,Cruze
-Chevrolet,Volt
-Chevrolet,Express
-Chevrolet,Spark
-Chevrolet,Orlando
-Chevrolet,Trax
-Chevrolet,Traverse
-Chevrolet,Bolt
-Chevrolet,Others
-Chevrolet,Monza Coupé
-Citroen,Xsara Picasso
-Citroen,Jumpy
-Citroen,C5
-Citroen,C3
-Citroen,C8
-Citroen,C2
-Citroen,2CV
-Citroen,Evasion
-Citroen,LNA
-Citroen,SAXO
-Citroen,Xantia
-Citroen,Jumper
-Citroen,Xsara
-Citroen,C15
-Citroen,Berlingo
-Citroen,DS
-Citroen,SM
-Citroen,C4 Picasso
-Citroen,C4
-Citroen,C1
-Citroen,C6
-Citroen,Grand C4 Picasso
-Citroen,C-Crosser
-Citroen,C35
-Citroen,Nemo
-Citroen,C3 Picasso
-Citroen,DS3
-Citroen,DS4
-Citroen,DS5
-Citroen,C-Zero
-Citroen,C5 Aircross
-Citroen,C4 Aircross
-Citroen,C4 Cactus
-Citroen,C-Elysée
-Citroen,C3 Aircross
-Citroen,C4 SpaceTourer
-Citroen,Grand C4 SpaceTourer
-Citroen,Traction
-Citroen,Others
-Citroen,E-Méhari
-Citroen,Spacetourer
-Citroen,Ami
-Citroen,E-C4 Electric
-Citroen,C5 X
-Ferrari,360
-Ferrari,Enzo Ferrari
-Ferrari,575
-Ferrari,612
-Ferrari,456
-Ferrari,512
-Ferrari,550
-Ferrari,599
-Ferrari,Superamerica
-Ferrari,F430
-Ferrari,California
-Ferrari,458
-Ferrari,FF
-Ferrari,SF90 Stradale
-Ferrari,F8 Spider
-Ferrari,Roma
-Ferrari,Scuderia Spider 16M
-Ferrari,LaFerrari
-Ferrari,F12
-Ferrari,Others
-Ferrari,488
-Ferrari,812
-Ferrari,GTC4 Lusso
-Ferrari,Portofino
-Ferrari,F8 Tributo
-Ferrari,Monza
-Ferrari,430 Scuderia
-Ferrari,SF90 Spider
-Ford,Express
-Ford,Expedition
-Ford,F-150
-Ford,F 250
-Ford,Fusion
-Ford,Econoline
-Ford,Streetka
-Ford,F 350
-Ford,Focus C-Max
-Ford,Escort
-Ford,Fiesta
-Ford,Galaxy
-Ford,Ka/Ka+
-Ford,Maverick
-Ford,Mondeo
-Ford,Bronco
-Ford,Explorer
-Ford,Taurus
-Ford,Windstar
-Ford,Tourneo
-Ford,Mustang
-Ford,Transit
-Ford,Thunderbird
-Ford,Puma
-Ford,Focus
-Ford,Cougar
-Ford,Courier
-Ford,M
-Ford,Crown
-Ford,Ranger
-Ford,Freestyle
-Ford,S-Max
-Ford,GT
-Ford,Edge
-Ford,Escape
-Ford,Focus CC
-Ford,Kuga
-Ford,C-Max
-Ford,Grand C-Max
-Ford,Flex
-Ford,B-Max
-Ford,Transit Connect
-Ford,EcoSport
-Ford,Connect Elekto
-Ford,Tourneo Courier
-Ford,Gran Torino
-Ford,Tourneo Connect
-Ford,F 650
-Ford,Others
-Ford,Transit Custom
-Ford,Transit Courier
-Ford,Transit Bus
-Ford,Tourneo Custom
-Ford,Grand Tourneo
-Ford,Mustang Mach-E
-Jeep,Willys
-Jeep,Cherokee
-Jeep,Grand Cherokee
-Jeep,Wrangler
-Jeep,Renegade
-Jeep,Commander
-Jeep,Wagoneer
-Jeep,Compass
-Jeep,Patriot
-Jeep,Others
-Jeep,Gladiator
-Land Rover,Discovery
-Land Rover,Freelander
-Land Rover,Range Rover
-Land Rover,Defender
-Land Rover,Range Rover Sport
-Land Rover,Range Rover Evoque
-Land Rover,Discovery Sport
-Land Rover,Others
-Land Rover,Range Rover Velar
-Mercedes-Benz,Vito
-Mercedes-Benz,Sprinter
-Mercedes-Benz,C 320
-Mercedes-Benz,SLK 320
-Mercedes-Benz,SLR
-Mercedes-Benz,ML 55 AMG
-Mercedes-Benz,SLK 230
-Mercedes-Benz,SL 380
-Mercedes-Benz,SL 350
-Mercedes-Benz,SL 450
-Mercedes-Benz,C 270
-Mercedes-Benz,S 55 AMG
-Mercedes-Benz,CLK 55 AMG
-Mercedes-Benz,SLK 32 AMG
-Mercedes-Benz,ML 400
-Mercedes-Benz,ML 500
-Mercedes-Benz,MB 100
-Mercedes-Benz,Vaneo
-Mercedes-Benz,C 32 AMG
-Mercedes-Benz,SL 55 AMG
-Mercedes-Benz,Vario
-Mercedes-Benz,A 210
-Mercedes-Benz,Atego
-Mercedes-Benz,Actros
-Mercedes-Benz,ML 350
-Mercedes-Benz,E 400
-Mercedes-Benz,C 30 AMG
-Mercedes-Benz,Viano
-Mercedes-Benz,C 55 AMG
-Mercedes-Benz,CL 55 AMG
-Mercedes-Benz,SLK 55 AMG
-Mercedes-Benz,G 55 AMG
-Mercedes-Benz,200
-Mercedes-Benz,230
-Mercedes-Benz,250
-Mercedes-Benz,280
-Mercedes-Benz,300
-Mercedes-Benz,320
-Mercedes-Benz,400
-Mercedes-Benz,500
-Mercedes-Benz,600
-Mercedes-Benz,C 180
-Mercedes-Benz,C 200
-Mercedes-Benz,C 230
-Mercedes-Benz,E 200
-Mercedes-Benz,E 220
-Mercedes-Benz,E 280
-Mercedes-Benz,E 290
-Mercedes-Benz,E 420
-Mercedes-Benz,SL 280
-Mercedes-Benz,SL 320
-Mercedes-Benz,SL 500
-Mercedes-Benz,SL 600
-Mercedes-Benz,C 280
-Mercedes-Benz,E 320
-Mercedes-Benz,420
-Mercedes-Benz,C 220
-Mercedes-Benz,E 500
-Mercedes-Benz,450
-Mercedes-Benz,A 160
-Mercedes-Benz,CLK
-Mercedes-Benz,E 230
-Mercedes-Benz,S 280
-Mercedes-Benz,S 320
-Mercedes-Benz,S 420
-Mercedes-Benz,S 500
-Mercedes-Benz,S 600
-Mercedes-Benz,V 280
-Mercedes-Benz,ML 230
-Mercedes-Benz,ML 320
-Mercedes-Benz,350
-Mercedes-Benz,C 250
-Mercedes-Benz,E 240
-Mercedes-Benz,E 300
-Mercedes-Benz,E 50 AMG
-Mercedes-Benz,C 43 AMG
-Mercedes-Benz,220
-Mercedes-Benz,SL 300
-Mercedes-Benz,C 240
-Mercedes-Benz,E 36 AMG
-Mercedes-Benz,E 250
-Mercedes-Benz,S 300
-Mercedes-Benz,S 350
-Mercedes-Benz,E 430
-Mercedes-Benz,E 55 AMG
-Mercedes-Benz,V 220
-Mercedes-Benz,A 140
-Mercedes-Benz,A 170
-Mercedes-Benz,A 190
-Mercedes-Benz,S 430
-Mercedes-Benz,ML 430
-Mercedes-Benz,270
-Mercedes-Benz,S 560
-Mercedes-Benz,E 270
-Mercedes-Benz,S 400
-Mercedes-Benz,ML 270
-Mercedes-Benz,CLS
-Mercedes-Benz,SLK
-Mercedes-Benz,CL
-Mercedes-Benz,G
-Mercedes-Benz,V
-Mercedes-Benz,C 160
-Mercedes-Benz,R 350
-Mercedes-Benz,CL 65 AMG
-Mercedes-Benz,CLS 55 AMG
-Mercedes-Benz,CLS 63 AMG
-Mercedes-Benz,CL 180
-Mercedes-Benz,CL 230
-Mercedes-Benz,S 65 AMG
-Mercedes-Benz,B 150
-Mercedes-Benz,B 170
-Mercedes-Benz,B 180
-Mercedes-Benz,B 200
-Mercedes-Benz,GL 320
-Mercedes-Benz,GL 420
-Mercedes-Benz,GL 450
-Mercedes-Benz,GL 500
-Mercedes-Benz,CLK 270
-Mercedes-Benz,CLK 280
-Mercedes-Benz,S 450
-Mercedes-Benz,A 150
-Mercedes-Benz,CL 600
-Mercedes-Benz,SLK 200
-Mercedes-Benz,R 320
-Mercedes-Benz,R 500
-Mercedes-Benz,R 280
-Mercedes-Benz,R 63 AMG
-Mercedes-Benz,ML 420
-Mercedes-Benz,E 63 AMG
-Mercedes-Benz,SL 65 AMG
-Mercedes-Benz,CL 220
-Mercedes-Benz,ML 63 AMG
-Mercedes-Benz,S 550
-Mercedes-Benz,CLK 200
-Mercedes-Benz,CLK 350
-Mercedes-Benz,CLK 430
-Mercedes-Benz,E 350
-Mercedes-Benz,SLK 350
-Mercedes-Benz,V 200
-Mercedes-Benz,C 350
-Mercedes-Benz,ML 280
-Mercedes-Benz,SLK 280
-Mercedes-Benz,CLK 63 AMG
-Mercedes-Benz,CLK 220
-Mercedes-Benz,CLK 320
-Mercedes-Benz,CLK 500
-Mercedes-Benz,A 180
-Mercedes-Benz,A 200
-Mercedes-Benz,CL 200
-Mercedes-Benz,CL 500
-Mercedes-Benz,CLK 230
-Mercedes-Benz,CLK 240
-Mercedes-Benz,S 63 AMG
-Mercedes-Benz,CL 63 AMG
-Mercedes-Benz,C 63 AMG
-Mercedes-Benz,CLS 320
-Mercedes-Benz,CLS 350
-Mercedes-Benz,CLS 500
-Mercedes-Benz,CLC
-Mercedes-Benz,SL 63 AMG
-Mercedes-Benz,GLK 220
-Mercedes-Benz,GLK 320
-Mercedes-Benz,GLK 350
-Mercedes-Benz,GLK 280
-Mercedes-Benz,SLS
-Mercedes-Benz,B 160
-Mercedes-Benz,C 300
-Mercedes-Benz,R 300
-Mercedes-Benz,GL 350
-Mercedes-Benz,GLK 250
-Mercedes-Benz,GLK 300
-Mercedes-Benz,ML 300
-Mercedes-Benz,ML 450
-Mercedes-Benz,SLK 300
-Mercedes-Benz,GLK 200
-Mercedes-Benz,GLE 250
-Mercedes-Benz,GLE 500
-Mercedes-Benz,S 250
-Mercedes-Benz,ML 250
-Mercedes-Benz,SLK 250
-Mercedes-Benz,CLS 450
-Mercedes-Benz,E 53 AMG
-Mercedes-Benz,GLB 180
-Mercedes-Benz,GLB 200
-Mercedes-Benz,GLB 220
-Mercedes-Benz,GLB 250
-Mercedes-Benz,GLC 400
-Mercedes-Benz,B 220
-Mercedes-Benz,G 350
-Mercedes-Benz,G 500
-Mercedes-Benz,CLA 180
-Mercedes-Benz,CLA 200
-Mercedes-Benz,CLA 220
-Mercedes-Benz,CLA 250
-Mercedes-Benz,CE 220
-Mercedes-Benz,CL 160
-Mercedes-Benz,CLS 250
-Mercedes-Benz,G 290
-Mercedes-Benz,G 320
-Mercedes-Benz,G 400
-Mercedes-Benz,GL 55 AMG
-Mercedes-Benz,GL 63 AMG
-Mercedes-Benz,A 45 AMG
-Mercedes-Benz,SL 400
-Mercedes-Benz,170
-Mercedes-Benz,T1
-Mercedes-Benz,Citan
-Mercedes-Benz,CLA 45 AMG
-Mercedes-Benz,CLS 300
-Mercedes-Benz,A 250
-Mercedes-Benz,B 250
-Mercedes-Benz,G 63 AMG
-Mercedes-Benz,G 65 AMG
-Mercedes-Benz,G 300
-Mercedes-Benz,E 550
-Mercedes-Benz,GLA 45 AMG
-Mercedes-Benz,180
-Mercedes-Benz,GLA 180
-Mercedes-Benz,CLS 220
-Mercedes-Benz,E 450
-Mercedes-Benz,A 220
-Mercedes-Benz,CLS 53 AMG
-Mercedes-Benz,X 350
-Mercedes-Benz,G 270
-Mercedes-Benz,GLA 200
-Mercedes-Benz,GLA 220
-Mercedes-Benz,GLA 250
-Mercedes-Benz,CLS 280
-Mercedes-Benz,B Electric Drive
-Mercedes-Benz,AMG GT
-Mercedes-Benz,V 250
-Mercedes-Benz,G 280
-Mercedes-Benz,C 450
-Mercedes-Benz,C 400
-Mercedes-Benz,GLE 350
-Mercedes-Benz,GLE 400
-Mercedes-Benz,GLE 450
-Mercedes-Benz,GLE 63 AMG
-Mercedes-Benz,Marco Polo
-Mercedes-Benz,GLC 63 AMG
-Mercedes-Benz,S 650
-Mercedes-Benz,GLC 43 AMG
-Mercedes-Benz,GLC 350
-Mercedes-Benz,GLE 43 AMG
-Mercedes-Benz,GLS 350
-Mercedes-Benz,GLS 400
-Mercedes-Benz,GLS 500
-Mercedes-Benz,GLS 63 AMG
-Mercedes-Benz,SLC 180
-Mercedes-Benz,SLC 200
-Mercedes-Benz,SLC 250
-Mercedes-Benz,SLC 300
-Mercedes-Benz,SLC 43 AMG
-Mercedes-Benz,GLC 300
-Mercedes-Benz,GL 400
-Mercedes-Benz,CLS 400
-Mercedes-Benz,210/310
-Mercedes-Benz,Others
-Mercedes-Benz,GLC 220
-Mercedes-Benz,GLC 250
-Mercedes-Benz,E 43 AMG
-Mercedes-Benz,A 35 AMG
-Mercedes-Benz,X 220
-Mercedes-Benz,X 250
-Mercedes-Benz,GLE 300
-Mercedes-Benz,EQC 400
-Mercedes-Benz,CLA 35 AMG
-Mercedes-Benz,GLC 200
-Mercedes-Benz,V 300
-Mercedes-Benz,GLE 53 AMG
-Mercedes-Benz,GLB 35 AMG
-Mercedes-Benz,GLE 580
-Mercedes-Benz,GLS 580
-Mercedes-Benz,GLS 600
-Mercedes-Benz,EQV 300
-Mercedes-Benz,GLS 450
-Mercedes-Benz,GLA 35 AMG
-Mercedes-Benz,CL 320
-Mercedes-Benz,EQA
-Mercedes-Benz,EQB 300
-Mercedes-Benz,EQB 350
-Mercedes-Benz,EQE 350
-Mercedes-Benz,S 680
-Mercedes-Benz,EQA 250
-Mercedes-Benz,EQA 300
-Mercedes-Benz,EQS
-Mercedes-Benz,S 560 E
-Mercedes-Benz,S 580
-Nissan,Trade
-Nissan,X-Trail
-Nissan,Cabstar
-Nissan,Interstar
-Nissan,Navara
-Nissan,Silvia
-Nissan,Murano
-Nissan,Frontier
-Nissan,350Z
-Nissan,Primastar
-Nissan,Kubistar
-Nissan,Almera Tino
-Nissan,Almera
-Nissan,Maxima
-Nissan,Micra
-Nissan,Patrol
-Nissan,Primera
-Nissan,Serena
-Nissan,Terrano
-Nissan,Pathfinder
-Nissan,Vanette
-Nissan,King Cab
-Nissan,Pick up
-Nissan,Titan
-Nissan,Skyline
-Nissan,Qashqai
-Nissan,Armada
-Nissan,Note
-Nissan,Cube
-Nissan,Tiida
-Nissan,NP300
-Nissan,Qashqai+2
-Nissan,370Z
-Nissan,Pixo
-Nissan,GT-R
-Nissan,NV200
-Nissan,Pulsar
-Nissan,Juke
-Nissan,Leaf
-Nissan,NV400
-Nissan,NV250
-Nissan,Evalia
-Nissan,Altima
-Nissan,Others
-Nissan,E-NV200
-Nissan,NV300
-Nissan,Townstar
-Nissan,Ariya
-Opel,Agila
-Opel,Speedster
-Opel,GT
-Opel,Vivaro
-Opel,Meriva
-Opel,Signum
-Opel,Astra
-Opel,Corsa
-Opel,Frontera
-Opel,Omega
-Opel,Tigra
-Opel,Vectra
-Opel,Combo
-Opel,Zafira
-Opel,Movano
-Opel,Antara
-Opel,Insignia
-Opel,Ampera
-Opel,Adam
-Opel,Zafira Tourer
-Opel,Mokka
-Opel,Cascada
-Opel,Karl
-Opel,Others
-Opel,Grandland X
-Opel,Crossland X
-Opel,Zafira Life
-Opel,Mokka X
-Opel,Crossland
-Opel,Mokka-E
-Opel,Rocks-e
-Opel,Combo Life
-Opel,Combo-e Life
-Opel,Grandland
-Opel,Combo-e
-Opel,Vivaro-e
-Opel,Corsa-e
-Peugeot,607
-Peugeot,307
-Peugeot,807
-Peugeot,407
-Peugeot,106
-Peugeot,306
-Peugeot,406
-Peugeot,806
-Peugeot,Boxer
-Peugeot,Partner
-Peugeot,Expert
-Peugeot,206
-Peugeot,204
-Peugeot,107
-Peugeot,207
-Peugeot,1007
-Peugeot,308
-Peugeot,4007
-Peugeot,Bipper
-Peugeot,3008
-Peugeot,5008
-Peugeot,RCZ
-Peugeot,508
-Peugeot,Ranch
-Peugeot,iOn
-Peugeot,208
-Peugeot,2008
-Peugeot,301
-Peugeot,4008
-Peugeot,108
-Peugeot,Others
-Peugeot,Traveller
-Peugeot,Rifter
-Peugeot,e-208
-Peugeot,e-2008
-Porsche,996
-Porsche,356
-Porsche,Cayenne
-Porsche,911
-Porsche,968
-Porsche,Boxster
-Porsche,Carrera GT
-Porsche,997
-Porsche,912
-Porsche,Cayman
-Porsche,Targa
-Porsche,Panamera
-Porsche,991
-Porsche,718 Spyder
-Porsche,930
-Porsche,Macan
-Porsche,918
-Porsche,992
-Porsche,Others
-Porsche,Taycan
-Renault,Grand Espace
-Renault,Avantime
-Renault,Vel Satis
-Renault,Mascott
-Renault,R 6
-Renault,Clio
-Renault,Espace
-Renault,Laguna
-Renault,Megane
-Renault,R 11
-Renault,R 18
-Renault,R 19
-Renault,R 9
-Renault,Twingo
-Renault,Trafic
-Renault,Express
-Renault,Master
-Renault,Scenic
-Renault,Kangoo
-Renault,Rapid
-Renault,Modus
-Renault,Grand Scenic
-Renault,Koleos
-Renault,Grand Modus
-Renault,Fluence
-Renault,Symbol
-Renault,Logan
-Renault,Latitude
-Renault,Wind
-Renault,Talisman
-Renault,Others
-Renault,Kangoo Z.E.
-Renault,Fluence Z.E.
-Renault,Twizy
-Renault,Alpine A110
-Renault,ZOE
-Renault,Captur
-Renault,Kadjar
-Renault,Alaskan
-Renault,Arkana
-Rolls-Royce,Corniche
-Rolls-Royce,Phantom
-Rolls-Royce,Phantom Drophead
-Rolls-Royce,Ghost
-Rolls-Royce,Wraith
-Rolls-Royce,Continental  R Mulliner
-Rolls-Royce,Dawn
-Rolls-Royce,Cullinan
-SEAT,Altea
-SEAT,Alhambra
-SEAT,Cordoba
-SEAT,Ibiza
-SEAT,Toledo
-SEAT,Inca
-SEAT,Arosa
-SEAT,Leon
-SEAT,Exeo
-SEAT,Altea XL
-SEAT,Mii
-SEAT,Others
-SEAT,Arona
-SEAT,Ateca
-SEAT,Tarraco
-SEAT,Leon e-Hybrid
-Skoda,Fabia
-Skoda,Superb
-Skoda,120
-Skoda,Pick up
-Skoda,Felicia
-Skoda,Octavia
-Skoda,105
-Skoda,130
-Skoda,Roomster
-Skoda,Praktik
-Skoda,Yeti
-Skoda,Citigo
-Skoda,Rapid/Spaceback
-Skoda,Scala
-Skoda,Karoq
-Skoda,Others
-Skoda,Kodiaq
-Skoda,Kamiq
-Skoda,Enyaq
-Tesla,Others
-Tesla,Model S
-Tesla,Model X
-Tesla,Roadster
-Tesla,Model 3
-Tesla,Model Y
-Toyota,Dyna
-Toyota,Tundra
-Toyota,Prius
-Toyota,Sienna
-Toyota,4-Runner
-Toyota,Camry
-Toyota,Celica
-Toyota,Corolla
-Toyota,Land Cruiser
-Toyota,MR 2
-Toyota,Picnic
-Toyota,Previa
-Toyota,Supra
-Toyota,RAV 4
-Toyota,Hiace
-Toyota,Hilux
-Toyota,Avensis
-Toyota,Yaris
-Toyota,HDJ
-Toyota,Aygo
-Toyota,Sequoia
-Toyota,Crown
-Toyota,Avalon
-Toyota,FJ Cruiser
-Toyota,Auris
-Toyota,iQ
-Toyota,Urban Cruiser
-Toyota,Verso
-Toyota,Highlander
-Toyota,Land Cruiser Prado
-Toyota,Mark II
-Toyota,Venza
-Toyota,Verso-S
-Toyota,Aristo
-Toyota,Mirai
-Toyota,Avensis Verso
-Toyota,GT86
-Toyota,Proace
-Toyota,Coaster
-Toyota,Tacoma
-Toyota,Prius+
-Toyota,Corolla Verso
-Toyota,Others
-Toyota,C-HR
-Toyota,Matrix
-Toyota,Yaris Cross
-Volkswagen,Taro
-Volkswagen,T4 Allstar
-Volkswagen,T3 Blue Star
-Volkswagen,T5 Caravelle
-Volkswagen,T5 Multivan
-Volkswagen,Transporter
-Volkswagen,Phaeton
-Volkswagen,Touareg
-Volkswagen,T3
-Volkswagen,Touran
-Volkswagen,T5
-Volkswagen,Golf
-Volkswagen,Jetta
-Volkswagen,Passat
-Volkswagen,Polo
-Volkswagen,Scirocco
-Volkswagen,Sharan
-Volkswagen,Bus
-Volkswagen,Käfer
-Volkswagen,T4
-Volkswagen,T2
-Volkswagen,New Beetle
-Volkswagen,Lupo
-Volkswagen,Bora
-Volkswagen,Caddy
-Volkswagen,LT
-Volkswagen,Maggiolino
-Volkswagen,T5 California
-Volkswagen,Fox
-Volkswagen,T5 Shuttle
-Volkswagen,Crafter
-Volkswagen,Eos
-Volkswagen,Tiguan
-Volkswagen,Routan
-Volkswagen,Amarok
-Volkswagen,T1
-Volkswagen,Polo Sedan
-Volkswagen,T6 Caravelle
-Volkswagen,T6 Multivan
-Volkswagen,T6 California
-Volkswagen,Beetle
-Volkswagen,up!
-Volkswagen,CC
-Volkswagen,Golf Plus
-Volkswagen,Golf Sportsvan
-Volkswagen,Polo Cross
-Volkswagen,T6 Transporter
-Volkswagen,Cross Golf
-Volkswagen,Cross Touran
-Volkswagen,T-Cross
-Volkswagen,Polo Plus
-Volkswagen,Polo Variant
-Volkswagen,Polo GTI
-Volkswagen,Polo R WRC
-Volkswagen,Passat CC
-Volkswagen,Passat Variant
-Volkswagen,Passat Alltrack
-Volkswagen,Golf Variant
-Volkswagen,Golf Cabriolet
-Volkswagen,Golf GTI
-Volkswagen,T4 Multivan
-Volkswagen,T4 California
-Volkswagen,T3 Caravelle
-Volkswagen,T4 Caravelle
-Volkswagen,T5 Kombi
-Volkswagen,T4 Kombi
-Volkswagen,Coccinelle
-Volkswagen,Arteon
-Volkswagen,Others
-Volkswagen,T-Roc
-Volkswagen,T5 Transporter
-Volkswagen,Atlas
-Volkswagen,Kever
-Volkswagen,T6 Kombi
-Volkswagen,Grand California
-Volkswagen,ID.3
-Volkswagen,ID.4
-Volkswagen,Golf GTE
-Volkswagen,T6.1 California
-Volkswagen,T6.1 Caravelle
-Volkswagen,T6.1 Kombi
-Volkswagen,T6.1 Multivan
-Volkswagen,T6.1 Transporter
-Volkswagen,T7 Multivan
-Volkswagen,e-Golf
-Volkswagen,e-up!
-Volkswagen,Taigo
-Volkswagen,ID.5
-Volkswagen,Tiguan Allspace
-Volvo,S60
-Volvo,XC90
-Volvo,XC70
-Volvo,V50
-Volvo,360
-Volvo,S40
-Volvo,S70
-Volvo,V70
-Volvo,S90
-Volvo,V90
-Volvo,V40
-Volvo,C70
-Volvo,S80
-Volvo,C30
-Volvo,XC60
-Volvo,V60
-Volvo,Others
-Volvo,V40 Cross Country
-Volvo,XC40
-Volvo,S60 Cross Country
-Volvo,V60 Cross Country
-Volvo,V90 Cross Country
-Volvo,C40
+brand,model,counts
+Aston Martin,DB,1
+Aston Martin,Lagonda,1
+Aston Martin,Volante,2
+Aston Martin,Cygnet,9
+Audi,200,3
+Audi,80,2
+Audi,V8,5
+Audi,SQ3,2
+Bentley,Brooklands,2
+BMW,315,2
+BMW,725,3
+BMW,728,4
+BMW,2002,2
+BMW,223,5
+Bugatti,Divo,2
+Chevrolet,2500,1
+Chevrolet,Impala,1
+Chevrolet,Chevy Van,8
+Chevrolet,Caprice,1
+Chevrolet,Cavalier,1
+Chevrolet,Malibu,8
+Chevrolet,Trans Sport,6
+Chevrolet,Alero,3
+Chevrolet,Evanda,4
+Chevrolet,Rezzo,8
+Chevrolet,SSR,7
+Chevrolet,Colorado,3
+Chevrolet,Equinox,4
+Chevrolet,Volt,6
+Chevrolet,Traverse,3
+Chevrolet,Bolt,2
+Citroen,2CV,7
+Citroen,Evasion,3
+Citroen,LNA,4
+Citroen,Xantia,3
+Citroen,C15,6
+Citroen,SM,2
+Citroen,C35,3
+Citroen,Traction,7
+Citroen,E-Méhari,7
+Citroen,E-C4 Electric,5
+Ferrari,Enzo Ferrari,2
+Ferrari,456,8
+Ferrari,512,1
+Ferrari,Superamerica,9
+Ferrari,Scuderia Spider 16M,3
+Ferrari,Monza,2
+Ferrari,SF90 Spider,2
+Ford,Express,1
+Ford,Expedition,8
+Ford,Econoline,1
+Ford,F 350,9
+Ford,Escort,3
+Ford,Taurus,3
+Ford,Windstar,3
+Ford,Thunderbird,5
+Ford,Cougar,9
+Ford,Courier,2
+Ford,Crown,3
+Ford,Freestyle,1
+Ford,Flex,8
+Ford,Connect Elekto,8
+Ford,Gran Torino,4
+Ford,F 650,1
+Jeep,Willys,2
+Jeep,Wagoneer,7
+Mercedes-Benz,SL 380,1
+Mercedes-Benz,SL 450,1
+Mercedes-Benz,SLK 32 AMG,9
+Mercedes-Benz,MB 100,1
+Mercedes-Benz,Actros,2
+Mercedes-Benz,C 30 AMG,2
+Mercedes-Benz,300,6
+Mercedes-Benz,400,1
+Mercedes-Benz,600,3
+Mercedes-Benz,E 290,2
+Mercedes-Benz,E 420,4
+Mercedes-Benz,SL 280,5
+Mercedes-Benz,420,1
+Mercedes-Benz,450,1
+Mercedes-Benz,E 230,10
+Mercedes-Benz,S 280,3
+Mercedes-Benz,V 280,1
+Mercedes-Benz,ML 230,3
+Mercedes-Benz,SL 300,4
+Mercedes-Benz,E 36 AMG,4
+Mercedes-Benz,S 300,9
+Mercedes-Benz,ML 430,9
+Mercedes-Benz,270,3
+Mercedes-Benz,CL 65 AMG,4
+Mercedes-Benz,CL 180,1
+Mercedes-Benz,CL 230,1
+Mercedes-Benz,R 63 AMG,4
+Mercedes-Benz,CL 220,2
+Mercedes-Benz,S 550,5
+Mercedes-Benz,CLK 430,9
+Mercedes-Benz,CL 200,4
+Mercedes-Benz,GLK 300,9
+Mercedes-Benz,ML 450,5
+Mercedes-Benz,SLK 300,10
+Mercedes-Benz,S 250,4
+Mercedes-Benz,CE 220,2
+Mercedes-Benz,CL 160,1
+Mercedes-Benz,G 290,2
+Mercedes-Benz,GL 55 AMG,1
+Mercedes-Benz,170,5
+Mercedes-Benz,T1,1
+Mercedes-Benz,G 300,4
+Mercedes-Benz,E 550,3
+Mercedes-Benz,CLS 280,10
+Mercedes-Benz,B Electric Drive,8
+Mercedes-Benz,G 280,2
+Mercedes-Benz,GL 400,4
+Mercedes-Benz,GLS 450,4
+Mercedes-Benz,CL 320,4
+Mercedes-Benz,S 680,4
+Mercedes-Benz,EQA 300,2
+Mercedes-Benz,S 560 E,1
+Nissan,Trade,1
+Nissan,Silvia,3
+Nissan,Frontier,2
+Nissan,Kubistar,5
+Nissan,Maxima,4
+Nissan,Serena,2
+Nissan,Vanette,2
+Nissan,King Cab,7
+Nissan,Titan,10
+Nissan,Skyline,4
+Nissan,Armada,1
+Nissan,Cube,7
+Nissan,Altima,1
+Opel,Rocks-e,4
+Opel,Combo-e Life,1
+Opel,Combo-e,2
+Peugeot,806,4
+Peugeot,204,2
+Peugeot,301,5
+Porsche,356,1
+Porsche,968,1
+Porsche,912,1
+Porsche,930,1
+Renault,R 6,1
+Renault,R 11,8
+Renault,R 18,4
+Renault,R 19,1
+Renault,R 9,10
+Renault,Rapid,3
+Renault,Symbol,1
+Renault,Logan,1
+Renault,Fluence Z.E.,4
+Rolls-Royce,Corniche,4
+Rolls-Royce,Phantom Drophead,6
+SEAT,Inca,3
+SEAT,Leon e-Hybrid,7
+Skoda,120,2
+Skoda,Pick up,1
+Skoda,Felicia,2
+Skoda,105,4
+Skoda,130,2
+Skoda,Praktik,8
+Tesla,Others,1
+Tesla,Roadster,3
+Toyota,4-Runner,3
+Toyota,Picnic,3
+Toyota,Previa,8
+Toyota,HDJ,2
+Toyota,Sequoia,3
+Toyota,Crown,5
+Toyota,Avalon,1
+Toyota,Land Cruiser Prado,7
+Toyota,Mark II,1
+Toyota,Venza,3
+Toyota,Aristo,1
+Toyota,Coaster,6
+Toyota,Tacoma,4
+Toyota,Matrix,2
+Volkswagen,Taro,1
+Volkswagen,T4 Allstar,2
+Volkswagen,T3 Blue Star,1
+Volkswagen,T3,1
+Volkswagen,Bus,1
+Volkswagen,Käfer,10
+Volkswagen,T2,3
+Volkswagen,T5 Shuttle,6
+Volkswagen,Routan,1
+Volkswagen,T1,1
+Volkswagen,Polo Sedan,2
+Volkswagen,Cross Golf,8
+Volkswagen,Polo Plus,6
+Volkswagen,Polo Variant,5
+Volkswagen,Polo R WRC,6
+Volkswagen,T3 Caravelle,2
+Volkswagen,Atlas,5
+Volkswagen,Kever,1
+Volvo,360,1
+Volvo,S70,3
+Volvo,S60 Cross Country,8
