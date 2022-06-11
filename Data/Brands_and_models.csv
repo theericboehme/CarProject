@@ -186,6 +186,16 @@ Chevrolet,Orlando,79
 Chevrolet,Trax,58
 Chevrolet,Others,16
 Chevrolet,Monza Coupé,2194
+Chrysler,PT Cruiser,136
+Chrysler,Pacifica,69
+Chrysler,Crossfire,55
+Chrysler,Neon,18
+Chrysler,Voyager,114
+Chrysler,Sebring,94
+Chrysler,300 M,11
+Chrysler,Grand Voyager,98
+Chrysler,300C,112
+Chrysler,Town & Country,764
 Citroen,Xsara Picasso,165
 Citroen,Jumpy,656
 Citroen,C5,856
@@ -241,6 +251,44 @@ Ferrari,GTC4 Lusso,70
 Ferrari,Portofino,66
 Ferrari,F8 Tributo,64
 Ferrari,430 Scuderia,14
+Fiat,Talento,327
+Fiat,Strada,53
+Fiat,124 Coupè,5632
+Fiat,Stilo,79
+Fiat,Doblo,1928
+Fiat,Idea,118
+Fiat,Barchetta,43
+Fiat,Bravo,250
+Fiat,Coupe,10
+Fiat,Croma,108
+Fiat,Panda,5204
+Fiat,Punto,1626
+Fiat,Tipo,2224
+Fiat,Ulysse,55
+Fiat,X 1/9,5633
+Fiat,Ducato,1252
+Fiat,Fiorino,869
+Fiat,Seicento,130
+Fiat,Scudo,296
+Fiat,124 Spider,247
+Fiat,Multipla,94
+Fiat,Grande Punto,674
+Fiat,Sedici,246
+Fiat,Linea,45
+Fiat,Qubo,479
+Fiat,Punto Evo,618
+Fiat,128,20
+Fiat,500C,2170
+Fiat,500 Abarth,103
+Fiat,500C Abarth,17
+Fiat,Freemont,244
+Fiat,New Panda,193
+Fiat,500X,2627
+Fiat,595 Abarth,38
+Fiat,500L,2957
+Fiat,Fullback,81
+Fiat,Others,86
+Fiat,500e,632
 Ford,F-150,355
 Ford,F 250,28
 Ford,Fusion,333
@@ -280,6 +328,33 @@ Ford,Transit Bus,11
 Ford,Tourneo Custom,972
 Ford,Grand Tourneo,134
 Ford,Mustang Mach-E,374
+Infiniti,FX,80
+Infiniti,G37,32
+Infiniti,M30,11
+Infiniti,Q50,83
+Infiniti,Q60,40
+Infiniti,QX50,12
+Infiniti,QX70,66
+Infiniti,Q70,13
+Infiniti,Others,12
+Infiniti,QX30,64
+Infiniti,Q30,190
+Jaguar,X-Type,159
+Jaguar,Daimler,11
+Jaguar,XJ6,14
+Jaguar,XJR,32
+Jaguar,XK8,51
+Jaguar,XJ8,24
+Jaguar,XJ,273
+Jaguar,XKR,118
+Jaguar,S-Type,192
+Jaguar,XK,144
+Jaguar,XF,1182
+Jaguar,XE,770
+Jaguar,F-Pace,1427
+Jaguar,F-Type,577
+Jaguar,I-Pace,331
+Jaguar,E-Pace,1186
 Jeep,Cherokee,745
 Jeep,Grand Cherokee,1126
 Jeep,Wrangler,1735
@@ -289,6 +364,29 @@ Jeep,Compass,2120
 Jeep,Patriot,44
 Jeep,Others,16
 Jeep,Gladiator,310
+Kia,Carnival,86
+Kia,Rio,1937
+Kia,Carens,637
+Kia,Magentis,39
+Kia,Sorento,654
+Kia,Picanto,2648
+Kia,Cerato,21
+Kia,Clarus,10
+Kia,Sportage,3810
+Kia,Ceed / cee'd,2074
+Kia,Mohave/Borrego,4606
+Kia,ProCeed / pro_cee'd,5607
+Kia,Soul,338
+Kia,Ceed SW / cee'd SW,5607
+Kia,Venga,627
+Kia,Optima,261
+Kia,Stonic,1765
+Kia,Others,473
+Kia,Niro,1078
+Kia,Stinger,168
+Kia,XCeed,1141
+Kia,e-Niro,107
+Kia,EV6,114
 Land Rover,Discovery,825
 Land Rover,Freelander,325
 Land Rover,Range Rover,757
@@ -298,6 +396,54 @@ Land Rover,Range Rover Evoque,2891
 Land Rover,Discovery Sport,1595
 Land Rover,Others,213
 Land Rover,Range Rover Velar,1206
+Lexus,RX 300,33
+Lexus,IS 300,205
+Lexus,SC 430,39
+Lexus,GS 300,73
+Lexus,IS 200,21
+Lexus,RX 350,18
+Lexus,GS 450h,49
+Lexus,IS 250,64
+Lexus,IS 220d,45
+Lexus,RX 400,55
+Lexus,LS 460,12
+Lexus,LS 600,10
+Lexus,IS F,16
+Lexus,LX 570,17
+Lexus,RX 450h,378
+Lexus,CT 200h,271
+Lexus,UX 200,17
+Lexus,UX 250h,383
+Lexus,RC F,18
+Lexus,NX 300,331
+Lexus,ES 300,100
+Lexus,Others,212
+Lexus,RC 300h,56
+Lexus,LS 500,31
+Lexus,LC 500,47
+Lexus,LC 500h,19
+Lexus,UX 300e,42
+Lexus,NX 300h,288
+Mazda,Tribute,27
+Mazda,6,1514
+Mazda,2,1368
+Mazda,RX-8,42
+Mazda,3,2330
+Mazda,323,20
+Mazda,626,10
+Mazda,MX-5,1159
+Mazda,Demio,26
+Mazda,Premacy,32
+Mazda,CX-7,91
+Mazda,5,333
+Mazda,BT-50,14
+Mazda,CX-9,11
+Mazda,CX-3,1698
+Mazda,CX-5,2672
+Mazda,Others,28
+Mazda,CX-30,1083
+Mazda,MX-30,209
+Mazda,CX-60,11
 Mercedes-Benz,Vito,2824
 Mercedes-Benz,Sprinter,2941
 Mercedes-Benz,C 320,73
@@ -720,6 +866,13 @@ Skoda,Others,95
 Skoda,Kodiaq,2088
 Skoda,Kamiq,1163
 Skoda,Enyaq,604
+smart,forTwo,3820
+smart,forFour,1943
+smart,Roadster,43
+smart,crossblade,12
+smart,city-coupé/city-cabrio,4327
+smart,brabus,90
+smart,Others,26
 Tesla,Model S,289
 Tesla,Model X,150
 Tesla,Model 3,410
