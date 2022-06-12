@@ -50,7 +50,7 @@ with st.form(key = "Specify your car"):
     df_car_variables = df_variable_summaries.loc[(brand, model)]
 
     year_registration = col1.slider(label = "Select year of first car registration:", max_value = 2022-int(df_car_variables[("age", "min")])+1, min_value = 2022-int(df_car_variables[("age", "max")])-1, value = 2022-int(df_car_variables[("age", "mean")]))
-    mileage = col2.number_input(label = "Select total car mileage (in km)", min_value = 0, max_value = 1000000, step = 10000, value = int(df_car_variables[("mileage", "mean")]))
+    mileage = col2.number_input(label = "Select total car mileage (in km)", min_value = 0, max_value = 1000000, step = 10000, value = int((df_car_variables[("mileage", "mean")]/1000).round(0)*1000))
 
     power = col1.slider(label = "Select power (in hp):", min_value = 20, max_value = 1000, step = 10, value = int(df_car_variables[("power", "mean")]))
     transmission = col2.selectbox(options = ["Automatic", "Manual", "Semi-automatic"], label = "Select the type of transmission:")
