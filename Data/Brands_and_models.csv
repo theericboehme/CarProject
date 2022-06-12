@@ -328,6 +328,18 @@ Ford,Transit Bus,11
 Ford,Tourneo Custom,972
 Ford,Grand Tourneo,134
 Ford,Mustang Mach-E,374
+Honda,S 2000,23
+Honda,Jazz,966
+Honda,Insight,35
+Honda,Odyssey,11
+Honda,Accord,177
+Honda,Civic,1561
+Honda,CR-V,1257
+Honda,Legend,10
+Honda,HR-V,786
+Honda,FR-V,53
+Honda,CR-Z,43
+Honda,e,54
 Infiniti,FX,80
 Infiniti,G37,32
 Infiniti,M30,11
@@ -387,6 +399,12 @@ Kia,Stinger,168
 Kia,XCeed,1141
 Kia,e-Niro,107
 Kia,EV6,114
+Lamborghini,Murciélago,624
+Lamborghini,Gallardo,115
+Lamborghini,Aventador,139
+Lamborghini,Huracan,141
+Lamborghini,Others,14
+Lamborghini,Urus,180
 Land Rover,Discovery,825
 Land Rover,Freelander,325
 Land Rover,Range Rover,757
@@ -424,6 +442,17 @@ Lexus,LC 500,47
 Lexus,LC 500h,19
 Lexus,UX 300e,42
 Lexus,NX 300h,288
+Maserati,Spyder,22
+Maserati,Coupe,49
+Maserati,Ghibli,701
+Maserati,Quattroporte,307
+Maserati,3200,34
+Maserati,GranSport,28
+Maserati,GranTurismo,159
+Maserati,GranCabrio,48
+Maserati,Others,16
+Maserati,Levante,715
+Maserati,MC20,17
 Mazda,Tribute,27
 Mazda,6,1514
 Mazda,2,1368
@@ -444,6 +473,16 @@ Mazda,Others,28
 Mazda,CX-30,1083
 Mazda,MX-30,209
 Mazda,CX-60,11
+McLaren,Others,15
+McLaren,MP4-12C,18
+McLaren,GT,19
+McLaren,650S Spider,14
+McLaren,600LT,17
+McLaren,570S,26
+McLaren,675LT,20
+McLaren,P1,12
+McLaren,720S,54
+McLaren,570GT,14
 Mercedes-Benz,Vito,2824
 Mercedes-Benz,Sprinter,2941
 Mercedes-Benz,C 320,73
@@ -683,6 +722,63 @@ Mercedes-Benz,EQE 350,38
 Mercedes-Benz,EQA 250,81
 Mercedes-Benz,EQS,316
 Mercedes-Benz,S 580,119
+MINI,Others,1954
+MINI,1300,17
+MINI,One,2383
+MINI,Cooper,3464
+MINI,Cooper Clubman,637
+MINI,One Countryman,434
+MINI,John Cooper Works,689
+MINI,One Clubman,457
+MINI,Cooper S,1812
+MINI,Cooper D,1062
+MINI,Cooper SD,340
+MINI,One D,567
+MINI,Cooper Cabrio,757
+MINI,Cooper D Cabrio,87
+MINI,Cooper S Cabrio,344
+MINI,Cooper SD Cabrio,25
+MINI,Cooper D Clubman,425
+MINI,Cooper S Clubman,401
+MINI,Cooper SD Clubman,139
+MINI,Cooper Countryman,1273
+MINI,Cooper D Countryman,935
+MINI,Cooper S Countryman,468
+MINI,Cooper SD Countryman,384
+MINI,Cooper Coupe,30
+MINI,Cooper S Coupe,23
+MINI,John Cooper Works Cabrio,147
+MINI,John Cooper Works Clubman,157
+MINI,John Cooper Works Coupe,16
+MINI,One Cabrio,235
+MINI,One D Clubman,130
+MINI,One D Countryman,216
+MINI,Cooper SE,290
+MINI,Cooper Roadster,34
+MINI,John Cooper Works Countryman,185
+MINI,Cooper D Paceman,21
+MINI,Cooper S Roadster,17
+MINI,Cooper Paceman,28
+MINI,Cooper S Paceman,26
+MINI,Cooper SD Paceman,19
+MINI,Cooper SE Countryman,147
+Mitsubishi,Outlander,1203
+Mitsubishi,Pajero Pinin,47
+Mitsubishi,Grandis,62
+Mitsubishi,Carisma,31
+Mitsubishi,Colt,461
+Mitsubishi,Eclipse,44
+Mitsubishi,Lancer,150
+Mitsubishi,Pajero,325
+Mitsubishi,Space Wagon,13
+Mitsubishi,L200,566
+Mitsubishi,Canter,43
+Mitsubishi,Space Star,1038
+Mitsubishi,Montero,133
+Mitsubishi,Pajero Sport,30
+Mitsubishi,ASX,883
+Mitsubishi,Others,16
+Mitsubishi,Eclipse Cross,978
 Nissan,X-Trail,1560
 Nissan,Cabstar,54
 Nissan,Interstar,26
